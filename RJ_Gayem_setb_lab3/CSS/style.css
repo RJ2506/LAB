@@ -1,0 +1,34 @@
+
+html {
+    background-color: #e5dada
+
+}
+h1,h2 {
+    font-family: 'Raleway', sans-serif;
+    color: #02040f
+    
+}
+
+p {
+    font-family: 'Noto Serif', serif;
+}
+
+nav {
+    background-color: #002642;
+    padding: 20px;
+    }
+.container ol {
+    list-style-type: none;
+    padding: 20px;
+    background-color: #e59500;
+    
+}
+
+.box {
+    display: inline-block;
+}
+
+
+    
+
+
